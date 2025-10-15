@@ -66,3 +66,37 @@ A **personalized workout plan** containing:
 - Enables easy deployment or integration into web apps or APIs.
 
 ---
+## 📁 Repository Structure
+
+Personalized-Fitness-Recommender-System/
+│
+├── personalized_fitness_recommender.ipynb # Main Jupyter Notebook
+├── README.md # Project documentation
+├── fitness_recommender.pkl # (Optional) Serialized model
+└── Final_data.csv # Dataset file (user-provided)
+
+yaml
+Copy code
+
+---
+---
+
+## ⚡ Getting Started
+
+### 🧰 Prerequisites
+- Python 3.7 or higher  
+- Libraries:  
+  `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `wordcloud`, `fuzzywuzzy`, `jupyter`
+
+### 🧱 Installation
+
+Install dependencies using pip:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn wordcloud fuzzywuzzy
+```
+👤 Author
+
+Aaditiya Jain
+B.Tech (Hons.) CSE — AI & ML
+Manipal University Jaipur
