@@ -67,19 +67,13 @@ A **personalized workout plan** containing:
 
 ---
 ## 📁 Repository Structure
-
+```
 Personalized-Fitness-Recommender-System/
 │
 ├── personalized_fitness_recommender.ipynb # Main Jupyter Notebook
 ├── README.md # Project documentation
-├── fitness_recommender.pkl # (Optional) Serialized model
-└── Final_data.csv # Dataset file (user-provided)
-
-yaml
-Copy code
-
----
----
+└── program_summary.csv # Dataset file (user-provided)
+```
 
 ## ⚡ Getting Started
 
